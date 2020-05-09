@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cEmanuel26/robotsApp/static/css/main.4ffdcc73.chunk.css",
-    "main.js": "/cEmanuel26/robotsApp/static/js/main.4375ecb0.chunk.js",
-    "main.js.map": "/cEmanuel26/robotsApp/static/js/main.4375ecb0.chunk.js.map",
+    "main.js": "/cEmanuel26/robotsApp/static/js/main.52bff1ed.chunk.js",
+    "main.js.map": "/cEmanuel26/robotsApp/static/js/main.52bff1ed.chunk.js.map",
     "runtime-main.js": "/cEmanuel26/robotsApp/static/js/runtime-main.69224bd0.js",
     "runtime-main.js.map": "/cEmanuel26/robotsApp/static/js/runtime-main.69224bd0.js.map",
     "static/css/2.036b41f9.chunk.css": "/cEmanuel26/robotsApp/static/css/2.036b41f9.chunk.css",
     "static/js/2.27c06634.chunk.js": "/cEmanuel26/robotsApp/static/js/2.27c06634.chunk.js",
     "static/js/2.27c06634.chunk.js.map": "/cEmanuel26/robotsApp/static/js/2.27c06634.chunk.js.map",
     "index.html": "/cEmanuel26/robotsApp/index.html",
-    "precache-manifest.133f79fa29da85840b3cddf1ea8625e1.js": "/cEmanuel26/robotsApp/precache-manifest.133f79fa29da85840b3cddf1ea8625e1.js",
+    "precache-manifest.c207b4717a5ceb55e597cf81d6b34609.js": "/cEmanuel26/robotsApp/precache-manifest.c207b4717a5ceb55e597cf81d6b34609.js",
     "service-worker.js": "/cEmanuel26/robotsApp/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/cEmanuel26/robotsApp/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.4ffdcc73.chunk.css.map": "/cEmanuel26/robotsApp/static/css/main.4ffdcc73.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.27c06634.chunk.js",
     "static/css/main.4ffdcc73.chunk.css",
-    "static/js/main.4375ecb0.chunk.js"
+    "static/js/main.52bff1ed.chunk.js"
   ]
 }
