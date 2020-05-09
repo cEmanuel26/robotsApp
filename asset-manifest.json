@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/cEmanuel26/robotsApp/static/css/main.4ffdcc73.chunk.css",
-    "main.js": "/cEmanuel26/robotsApp/static/js/main.252ddea8.chunk.js",
-    "main.js.map": "/cEmanuel26/robotsApp/static/js/main.252ddea8.chunk.js.map",
-    "runtime-main.js": "/cEmanuel26/robotsApp/static/js/runtime-main.5a1f7280.js",
-    "runtime-main.js.map": "/cEmanuel26/robotsApp/static/js/runtime-main.5a1f7280.js.map",
-    "static/css/2.036b41f9.chunk.css": "/cEmanuel26/robotsApp/static/css/2.036b41f9.chunk.css",
-    "static/js/2.e32f5c64.chunk.js": "/cEmanuel26/robotsApp/static/js/2.e32f5c64.chunk.js",
-    "static/js/2.e32f5c64.chunk.js.map": "/cEmanuel26/robotsApp/static/js/2.e32f5c64.chunk.js.map",
-    "index.html": "/cEmanuel26/robotsApp/index.html",
-    "precache-manifest.dc221f66adbec02fa2173427d09929eb.js": "/cEmanuel26/robotsApp/precache-manifest.dc221f66adbec02fa2173427d09929eb.js",
-    "service-worker.js": "/cEmanuel26/robotsApp/service-worker.js",
-    "static/css/2.036b41f9.chunk.css.map": "/cEmanuel26/robotsApp/static/css/2.036b41f9.chunk.css.map",
-    "static/css/main.4ffdcc73.chunk.css.map": "/cEmanuel26/robotsApp/static/css/main.4ffdcc73.chunk.css.map",
-    "static/js/2.e32f5c64.chunk.js.LICENSE.txt": "/cEmanuel26/robotsApp/static/js/2.e32f5c64.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/cEmanuel26/robotsApp/static/media/Robot World.5ce3fc11.woff"
+    "main.css": "/robotsApp/static/css/main.ebcbd3ad.chunk.css",
+    "main.js": "/robotsApp/static/js/main.7d433d27.chunk.js",
+    "main.js.map": "/robotsApp/static/js/main.7d433d27.chunk.js.map",
+    "runtime-main.js": "/robotsApp/static/js/runtime-main.a7b026d4.js",
+    "runtime-main.js.map": "/robotsApp/static/js/runtime-main.a7b026d4.js.map",
+    "static/css/2.036b41f9.chunk.css": "/robotsApp/static/css/2.036b41f9.chunk.css",
+    "static/js/2.64461cd2.chunk.js": "/robotsApp/static/js/2.64461cd2.chunk.js",
+    "static/js/2.64461cd2.chunk.js.map": "/robotsApp/static/js/2.64461cd2.chunk.js.map",
+    "index.html": "/robotsApp/index.html",
+    "precache-manifest.ea5dae7943430d9e2742b9cc4f6a7f22.js": "/robotsApp/precache-manifest.ea5dae7943430d9e2742b9cc4f6a7f22.js",
+    "service-worker.js": "/robotsApp/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/robotsApp/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.ebcbd3ad.chunk.css.map": "/robotsApp/static/css/main.ebcbd3ad.chunk.css.map",
+    "static/js/2.64461cd2.chunk.js.LICENSE.txt": "/robotsApp/static/js/2.64461cd2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotsApp/static/media/Robot World.5ce3fc11.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a1f7280.js",
+    "static/js/runtime-main.a7b026d4.js",
     "static/css/2.036b41f9.chunk.css",
-    "static/js/2.e32f5c64.chunk.js",
-    "static/css/main.4ffdcc73.chunk.css",
-    "static/js/main.252ddea8.chunk.js"
+    "static/js/2.64461cd2.chunk.js",
+    "static/css/main.ebcbd3ad.chunk.css",
+    "static/js/main.7d433d27.chunk.js"
   ]
 }
